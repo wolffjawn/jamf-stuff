@@ -1,7 +1,7 @@
 ﻿#! /bin/zsh
 
 # EDIT/REPLACE DEFAULT DOCK WITH USER DEFAULT DOCK
-# Written by Eric R. Miller
+# Written by Eric R. Miller using SupportApp
 # 2022 Edited by Jonathan Wolff based of Jamf Nation article about Monterey Macs
 # 2nd edit by Jonathan Wolff to use an array vs repetitive code
 # DFC 2023

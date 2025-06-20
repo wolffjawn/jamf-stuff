@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><extensionAttribute>
 <displayName>IP Address [WiFi]</displayName>
-<description>Report the state IP of a Mac regarless of VPN or On-Site status</description>
+<description>Report the state IP of a Mac regardless of VPN or On-Site status</description>
 <dataType>string</dataType>
 <scriptContentsMac>#!/bin/sh&#13;
 &#13;
